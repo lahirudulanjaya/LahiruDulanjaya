@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently working as a softaware engineere at cambio softoware engineering.
+I am currently working as a software engineer at Cambio Software Engineering.
 I studied at UCSC, Srilanka.
 
 📫 How to reach me:
